@@ -1,4 +1,5 @@
-[![CI](https://github.com/atom/nsfw/actions/workflows/ci.yml/badge.svg)](https://github.com/atom/nsfw/actions/workflows/ci.yml)
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ [![CI](https://github.com/atom/nsfw/actions/workflows/ci.yml/badge.svg)](https://github.com/atom/nsfw/actions/workflows/ci.yml)
 A simple file watcher library for node.
 
 ## Why NSFW?
